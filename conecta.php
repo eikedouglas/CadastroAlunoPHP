@@ -9,8 +9,7 @@
 	$db_database = "banco1";
 	
 	$conectou = mysql_connect($db_host, $db_user, $db_password);
-	
-	//echo "Aqui";
+
 	
 	if(!$conectou){
 		echo "Não conectou";
