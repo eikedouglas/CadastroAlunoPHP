@@ -18,8 +18,7 @@
 		
 		if(!$encontrou_banco){
 			echo "Não encontrou o banco de dados";
-		}
-				
+		}				
 	}
 	
 	}
